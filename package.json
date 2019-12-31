@@ -1,0 +1,26 @@
+{
+  "name": "tailwindcss-empty-pseudo-class",
+  "version": "1.0.0",
+  "description": "TailwindCSS plugin that adds support for :empty pseudo class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creativebay/tailwindcss-empty-pseudo-class.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "tailwind",
+    "empty",
+    "pseudo",
+    "class"
+  ],
+  "author": "CreativeBay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creativebay/tailwindcss-empty-pseudo-class/issues"
+  },
+  "homepage": "https://github.com/creativebay/tailwindcss-empty-pseudo-class#readme"
+}
